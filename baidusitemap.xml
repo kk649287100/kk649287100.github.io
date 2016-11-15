@@ -5,7 +5,7 @@
     
   <url>
     <loc>http://tommyyuwang.com/2016/11/14/ProgressBarAnimation4/</loc>
-    <lastmod>2016-11-15T05:36:59.000Z</lastmod>
+    <lastmod>2016-11-15T21:13:02.000Z</lastmod>
     <data>
         <display>
         <title>Progress Bar Animation 4</title>
@@ -16,6 +16,8 @@
         <tag>UIBezierPath</tag>
          
         <tag>CABasicAnimation</tag>
+         
+        <tag>CAKeyframeAnimation</tag>
          
          
            
