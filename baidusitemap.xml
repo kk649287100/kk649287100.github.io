@@ -4,8 +4,38 @@
 
     
   <url>
+    <loc>http://tommyyuwang.com/2016/11/22/SCADockingAnimation/</loc>
+    <lastmod>2016-11-22T20:33:37.000Z</lastmod>
+    <data>
+        <display>
+        <title>Docking Animation</title>
+        <pubTime>2016-11-22T20:27:24.000Z</pubTime>
+        
+        <tag>UIPanGestureRecognizer</tag>
+         
+        <tag>Animation</tag>
+         
+        <tag>UIViewControllerAnimatedTransitioning</tag>
+         
+         
+           
+             
+              <breadCrumb title="Development" url="http://tommyyuwang.com/categories/Development/"/>
+          
+             
+              <breadCrumb title="iOS" url="http://tommyyuwang.com/categories/Development/iOS/"/>
+          
+             
+              <breadCrumb title="Demo" url="http://tommyyuwang.com/categories/Development/iOS/Demo/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://tommyyuwang.com/2016/11/16/TTDGradientProgressBarAnimation/</loc>
-    <lastmod>2016-11-17T05:46:36.000Z</lastmod>
+    <lastmod>2016-11-22T20:33:27.000Z</lastmod>
     <data>
         <display>
         <title>Gradient Progress Bar Animation</title>
